@@ -1,3 +1,4 @@
+package TiendaTech.com.demo;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
